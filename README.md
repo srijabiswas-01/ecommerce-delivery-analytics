@@ -44,26 +44,12 @@ Then open:
 http://127.0.0.1:8000/standalone.html
 ```
 
-## Upload To GitHub
+## Dashboard Preview
 
-If Git is not installed, use GitHub's browser upload:
+<p align="center">
+  <img src="images/ecommerce-delivery-dashboard dark mode.png" width="100%">
+</p>
 
-1. Create a new repository on GitHub.
-2. Choose **Add file > Upload files**.
-3. Upload this whole project folder's contents.
-4. Commit the files.
-5. Go to **Settings > Pages**.
-6. Set **Source** to `Deploy from a branch`.
-7. Select branch `main` and folder `/root`.
-8. Open the published link and add `/standalone.html` at the end.
-
-If Git is installed:
-
-```bash
-git init
-git add .
-git commit -m "Add ecommerce delivery analytics dashboard"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-git push -u origin main
-```
+<p align="center">
+  <img src="images/ecommerce-delivery-dashboard.png" width="100%">
+</p>

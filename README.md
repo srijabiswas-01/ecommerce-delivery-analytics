@@ -53,3 +53,9 @@ http://127.0.0.1:8000/standalone.html
 <p align="center">
   <img src="images/ecommerce-delivery-dashboard.png" width="100%">
 </p>
+
+## Dataset
+
+Source: [Kaggle Dataset](https://www.kaggle.com/datasets/logiccraftbyhimanshi/e-commerce-analytics-swiggy-zomato-blinkit)
+
+The dashboard is built using the Ecommerce Delivery Analytics dataset containing order, delivery, customer satisfaction, refund, and platform performance data.
